@@ -1,5 +1,5 @@
 # Feedback from the first workshop
-In this file we present the feedback obtained after the application of the first workshop for the qualification of teachers in game design using the UAI Canvas. 
+In this file we present the feedback obtained after the application of the first workshop for the qualification of teachers in game design using the UAI Canvas. The original responses are in Portuguese, and we have translated them.
 
 ## Participants' profile
 | T1 | T2 | T3 | T4 | T5|
